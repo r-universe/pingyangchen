@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "milr",
+    "oncran": true
+  }
+]
